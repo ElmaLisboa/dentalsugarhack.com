@@ -340,12 +340,13 @@ export default function HomeEN() {
                 </div>
               </div>
 
-              <Button
-                size="lg"
-                className="w-full bg-blue-700 hover:bg-blue-800 text-white text-base sm:text-lg py-4 sm:py-6 rounded-lg font-semibold shadow-lg hover:shadow-xl transition-all"
-              >
-                Buy ProDentim with 60-Day Guarantee
-              </Button>
+                <Button
+                  size="lg"
+                  className="w-full bg-blue-700 hover:bg-blue-800 text-white text-base sm:text-lg py-4 sm:py-6 rounded-lg font-semibold shadow-lg hover:shadow-xl transition-all"
+                  onClick={() => window.open('https://prodentim.com/text.php?&shield=9f5cb4nabq9oezck0ih80luh8m', '_blank')}
+                >
+                  Buy ProDentim with 60-Day Guarantee
+                </Button>
             </div>
           </div>
         </div>
@@ -465,6 +466,7 @@ export default function HomeEN() {
           <Button
             size="lg"
             className="bg-white text-blue-700 hover:bg-slate-100 text-base sm:text-lg px-6 sm:px-10 py-4 sm:py-7 rounded-lg font-bold shadow-xl hover:shadow-2xl transition-all mt-8"
+            onClick={() => window.open('https://prodentim.com/text.php?&shield=9f5cb4nabq9oezck0ih80luh8m', '_blank')}
           >
             See Best ProDentim Offer
           </Button>
@@ -481,6 +483,7 @@ export default function HomeEN() {
           <Button
             size="lg"
             className="bg-blue-700 hover:bg-blue-800 text-white text-base sm:text-lg px-6 sm:px-10 py-4 sm:py-7 rounded-lg font-bold shadow-lg hover:shadow-xl transition-all w-full sm:w-auto"
+            onClick={() => window.open('https://prodentim.com/text.php?&shield=9f5cb4nabq9oezck0ih80luh8m', '_blank')}
           >
             Buy ProDentim Now with Guarantee
           </Button>
