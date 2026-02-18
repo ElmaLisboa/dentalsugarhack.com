@@ -43,10 +43,10 @@ export default function HomeEN() {
                 </div>
               </div>
 
-              <div className="flex flex-col sm:flex-row gap-4 pt-4">
+              <div className="flex flex-col sm:flex-row gap-3 pt-4">
                 <Button
                   size="lg"
-                  className="bg-blue-700 hover:bg-blue-800 text-white text-lg px-8 py-6 rounded-lg font-semibold shadow-lg hover:shadow-xl transition-all"
+                  className="bg-blue-700 hover:bg-blue-800 text-white text-base sm:text-lg px-4 sm:px-8 py-4 sm:py-6 rounded-lg font-semibold shadow-lg hover:shadow-xl transition-all w-full sm:w-auto"
                   onClick={() => document.getElementById("comparison-table")?.scrollIntoView({ behavior: "smooth" })}
                 >
                   See Detailed Comparison
@@ -54,7 +54,7 @@ export default function HomeEN() {
                 <Button
                   variant="outline"
                   size="lg"
-                  className="text-slate-700 border-slate-300 hover:bg-slate-50 text-lg px-8 py-6 rounded-lg font-semibold"
+                  className="text-slate-700 border-slate-300 hover:bg-slate-50 text-base sm:text-lg px-4 sm:px-8 py-4 sm:py-6 rounded-lg font-semibold w-full sm:w-auto"
                   onClick={() => document.getElementById("prodentim-section")?.scrollIntoView({ behavior: "smooth" })}
                 >
                   ProDentim Analysis
@@ -102,7 +102,7 @@ export default function HomeEN() {
                   <p className="text-slate-700 font-semibold mb-4 text-sm">3.5 billion CFUs with 3 clinically studied probiotic strains</p>
                   <Button
                     size="lg"
-                    className="w-full bg-blue-700 hover:bg-blue-800 text-white font-semibold rounded-lg py-6 shadow-md hover:shadow-lg transition-all"
+                    className="w-full bg-blue-700 hover:bg-blue-800 text-white text-base sm:text-lg font-semibold rounded-lg py-4 sm:py-6 shadow-md hover:shadow-lg transition-all"
                     onClick={() => document.getElementById("prodentim-section")?.scrollIntoView({ behavior: "smooth" })}
                   >
                     See Full Analysis
@@ -134,7 +134,7 @@ export default function HomeEN() {
                   <Button
                     variant="outline"
                     size="lg"
-                    className="w-full border-slate-300 text-slate-700 hover:bg-slate-100 font-semibold rounded-lg py-6"
+                    className="w-full border-slate-300 text-slate-700 hover:bg-slate-100 text-base sm:text-lg font-semibold rounded-lg py-4 sm:py-6"
                     onClick={() => document.getElementById("provadent-section")?.scrollIntoView({ behavior: "smooth" })}
                   >
                     See Full Analysis
@@ -255,7 +255,7 @@ export default function HomeEN() {
           <div className="mt-8 text-center">
             <Button
               size="lg"
-              className="bg-blue-700 hover:bg-blue-800 text-white text-lg px-10 py-6 rounded-lg font-semibold shadow-lg hover:shadow-xl transition-all"
+              className="bg-blue-700 hover:bg-blue-800 text-white text-base sm:text-lg px-6 sm:px-10 py-4 sm:py-6 rounded-lg font-semibold shadow-lg hover:shadow-xl transition-all"
               onClick={() => document.getElementById("prodentim-section")?.scrollIntoView({ behavior: "smooth" })}
             >
               See ProDentim Official Offer
@@ -342,7 +342,7 @@ export default function HomeEN() {
 
               <Button
                 size="lg"
-                className="w-full bg-blue-700 hover:bg-blue-800 text-white text-lg py-6 rounded-lg font-semibold shadow-lg hover:shadow-xl transition-all"
+                className="w-full bg-blue-700 hover:bg-blue-800 text-white text-base sm:text-lg py-4 sm:py-6 rounded-lg font-semibold shadow-lg hover:shadow-xl transition-all"
               >
                 Buy ProDentim with 60-Day Guarantee
               </Button>
@@ -443,7 +443,7 @@ export default function HomeEN() {
               <Button
                 variant="outline"
                 size="lg"
-                className="w-full border-slate-400 text-slate-700 hover:bg-slate-100 text-lg py-6 rounded-lg font-semibold"
+                className="w-full border-slate-400 text-slate-700 hover:bg-slate-100 text-base sm:text-lg py-4 sm:py-6 rounded-lg font-semibold"
               >
                 Consider ProvaDent
               </Button>
@@ -464,7 +464,7 @@ export default function HomeEN() {
           </p>
           <Button
             size="lg"
-            className="bg-white text-blue-700 hover:bg-slate-100 text-lg px-10 py-7 rounded-lg font-bold shadow-xl hover:shadow-2xl transition-all mt-8"
+            className="bg-white text-blue-700 hover:bg-slate-100 text-base sm:text-lg px-6 sm:px-10 py-4 sm:py-7 rounded-lg font-bold shadow-xl hover:shadow-2xl transition-all mt-8"
           >
             See Best ProDentim Offer
           </Button>
@@ -480,7 +480,7 @@ export default function HomeEN() {
           </p>
           <Button
             size="lg"
-            className="bg-blue-700 hover:bg-blue-800 text-white text-lg px-10 py-7 rounded-lg font-bold shadow-lg hover:shadow-xl transition-all"
+            className="bg-blue-700 hover:bg-blue-800 text-white text-base sm:text-lg px-6 sm:px-10 py-4 sm:py-7 rounded-lg font-bold shadow-lg hover:shadow-xl transition-all w-full sm:w-auto"
           >
             Buy ProDentim Now with Guarantee
           </Button>
