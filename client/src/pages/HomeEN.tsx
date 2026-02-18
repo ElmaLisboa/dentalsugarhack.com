@@ -445,6 +445,7 @@ export default function HomeEN() {
                 variant="outline"
                 size="lg"
                 className="w-full border-slate-400 text-slate-700 hover:bg-slate-100 text-base sm:text-lg py-4 sm:py-6 rounded-lg font-semibold"
+                onClick={() => window.open('https://6ce69dy9im9s8z4l4l60jatp5z.hop.clickbank.net', '_blank')}
               >
                 Consider ProvaDent
               </Button>
