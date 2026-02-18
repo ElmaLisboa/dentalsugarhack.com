@@ -342,7 +342,8 @@ export default function HomeEN() {
 
                 <Button
                   size="lg"
-                  className="w-full bg-blue-700 hover:bg-blue-800 text-white text-base sm:text-lg py-4 sm:py-6 rounded-lg font-semibold shadow-lg hover:shadow-xl transition-all"
+                  className="w-full text-white text-base sm:text-lg py-4 sm:py-6 rounded-lg font-semibold shadow-lg hover:shadow-xl transition-all"
+                  style={{backgroundColor: '#4b8f0f'}}
                   onClick={() => window.open('https://prodentim.com/text.php?&shield=9f5cb4nabq9oezck0ih80luh8m', '_blank')}
                 >
                   Buy ProDentim with 60-Day Guarantee
@@ -442,9 +443,9 @@ export default function HomeEN() {
               </div>
 
               <Button
-                variant="outline"
                 size="lg"
-                className="w-full border-slate-400 text-slate-700 hover:bg-slate-100 text-base sm:text-lg py-4 sm:py-6 rounded-lg font-semibold"
+                className="w-full text-white text-base sm:text-lg py-4 sm:py-6 rounded-lg font-semibold shadow-lg hover:shadow-xl transition-all"
+                style={{backgroundColor: '#4a4896'}}
                 onClick={() => window.open('https://6ce69dy9im9s8z4l4l60jatp5z.hop.clickbank.net', '_blank')}
               >
                 Consider ProvaDent
