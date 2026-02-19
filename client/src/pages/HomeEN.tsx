@@ -367,7 +367,7 @@ export default function HomeEN() {
                   <div className="flex items-start gap-3">
                     <img src="https://private-us-east-1.manuscdn.com/user_upload_by_module/feedback/310519663340322963/bZOYfRDCMIqxdPet.png?Expires=1802999743&Signature=NSWSKzKaVxlb0P4LwCpo~jX4J0wwhc4YcFTEU-lcua3mrf~BfIbNmZK-zeAupEL9z6bkG~Se66Urfxi54hV4iQNxqDGQfl458d~vZ3r3RDHKAE49JQFtCC6OOGF1Pk5g61~wxjX8MZW~O1d2eRBUY48Peg0Lh7H6bW7Q4RZfKpAiEkkgigcWPUBevF-0ZaDI1FZ2pWbJQvejybUIG~~fZycPxXdXaYHleItZt6EwFPKCCKHdNW4fvb3vfF6edJ8YmxCihJlvZfIEy59Z7fQlDAg58uLxgb8XQKUcY5cGjUTzdz9~PeCxsSAmZMu6Fxi2LmKjA3UHBaaH9z4lzV-HFw__&Key-Pair-Id=K2HSFNDJXOU9YS" alt="Maria" className="w-10 h-10 rounded-full flex-shrink-0" />
                     <div>
-                      <p className="text-slate-700 italic mb-2">"Easy to chew, felt the difference right away. I recommend it to anyone looking for something practical and effective."</p>
+                      <p className="text-slate-700 italic mb-2">"My gums have never looked better. It feels so good to not have to worry about my teeth. I simply love it!"</p>
                       <p className="font-semibold text-slate-900">Maria, 38 years old</p>
                       <p className="text-sm text-slate-600">Verified Purchase</p>
                     </div>
