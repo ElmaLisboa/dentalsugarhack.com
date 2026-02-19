@@ -357,8 +357,8 @@ export default function HomeEN() {
                   <div className="flex items-start gap-3">
                     <img src="https://private-us-east-1.manuscdn.com/user_upload_by_module/feedback/310519663340322963/PBbIzwDanVlGOMcA.png?Expires=1802999748&Signature=N6vuQMZski3Xn-ccz1ypcWGhPZCkMYe5W6ZELQc~TcN7BImbMRe~vMsfFoN68tgK4r~Ury3kVXTBzI0Qt22tJm-352zHBzmKugTa3nV~dTC0Ifdqr56vvHlu9A5w6NoIBBvHjKzSnHr7XKTWd1KN3vrFQmGGylRZajF7uZ9je6KN5lPuB7Ciwa6CeCHLvCMI-kJukrzuHUi65XMOBQ7852AUv3CUWOPZDfHpFrwkiTm32mzsLMsOD20De0dYkXWDiHzshUMuhMhCU7ovY~b4lRujdkitoVdpxsYlH09ypYJteh13~NyCHDMrLLU7qqhWXWcFnvCh~mV936MoXs9RZA__&Key-Pair-Id=K2HSFNDJXOU9YS" alt="John" className="w-10 h-10 rounded-full flex-shrink-0" />
                     <div>
-                      <p className="text-slate-700 italic mb-2">"Improved my bad breath in 3 weeks. My dentist was surprised by the improvement in my gums."</p>
-                      <p className="font-semibold text-slate-900">John, 45 years old</p>
+                      <p className="text-slate-700 italic mb-2">“It’s just unbelievable how much I like ProDentim. I’m so glad my dentist recommended it to me!”</p>
+                      <p className="font-semibold text-slate-900">Portia Thompson - Florida, USA</p>
                       <p className="text-sm text-slate-600">Verified Purchase</p>
                     </div>
                   </div>
