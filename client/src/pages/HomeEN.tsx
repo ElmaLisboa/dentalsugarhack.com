@@ -88,7 +88,10 @@ export default function HomeEN() {
               </div>
               <Card className="p-8 border-2 border-blue-700 bg-blue-50 shadow-lg">
                 <div className="pt-4">
-                  <h3 className="text-2xl font-bold text-blue-900 mb-2">ProDentim</h3>
+                  <div className="flex items-center gap-4 mb-4">
+                    <img src="https://files.manuscdn.com/canvas/images/2026/02/18/2f7c44fb-6bce-4584-9a5a-7ca97b85bb50.png" alt="ProDentim Bottle" className="w-20 h-20 object-contain" />
+                    <h3 className="text-2xl font-bold text-blue-900">ProDentim</h3>
+                  </div>
                   <p className="text-slate-600 mb-4">Popular Choice</p>
                   <div className="flex items-center gap-2 mb-6">
                     <div className="flex">
@@ -118,7 +121,10 @@ export default function HomeEN() {
               </div>
               <Card className="p-8 border-2 border-slate-300 bg-slate-50">
                 <div className="pt-4">
-                  <h3 className="text-2xl font-bold text-slate-900 mb-2">ProvaDent</h3>
+                  <div className="flex items-center gap-4 mb-4">
+                    <img src="https://private-us-east-1.manuscdn.com/user_upload_by_module/feedback/310519663340322963/TnXluSRJxhxrWFzk.webp?Expires=1802978868&Signature=VWGhA9dd60ucj91ahGgak9wSneuc3k9UfgJiFA8uPB~8HiNo2rVu2POH1fL99HhGO8uNhPDM6vj-vc5dxADjhJFhqb5hzM~kjiVDdHs0djL7IxuSDkgcdoAoFJCnI0O4qn9qpui8~0EgvD9Hw8jmUfurQUnhg0rc6USs7I~026VZvLwjnI6mDSIKRZ-yqa1iX0ET7IZcAkv2XtMXHX5ct20DW4cjdXOIVrsrKDovWyFM1k~~WSPzISKMd1a4o-mgh5cTDCmmIM06TupbcWcOIwlx1aAV8USD4j7EvpCGs2UZf~ju8P61C8aPhYbBJhiPwW~8NpVRpI8t2PvvX5FIxg__&Key-Pair-Id=K2HSFNDJXOU9YS" alt="ProvaDent Bottle" className="w-20 h-20 object-contain" />
+                    <h3 className="text-2xl font-bold text-slate-900">ProvaDent</h3>
+                  </div>
                   <p className="text-slate-600 mb-4">Solid Alternative</p>
                   <div className="flex items-center gap-2 mb-6">
                     <div className="flex">
