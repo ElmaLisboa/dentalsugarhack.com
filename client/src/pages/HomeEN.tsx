@@ -62,7 +62,7 @@ export default function HomeEN() {
               </div>
             </div>
 
-            <div className="flex items-center justify-center order-1 lg:order-2">
+            <div className="flex items-center justify-center order-1 lg:order-2 -mt-4 sm:mt-0">
               <img
                 src="https://private-us-east-1.manuscdn.com/user_upload_by_module/feedback/310519663340322963/SHvWepHXhjSSSGPC.png?Expires=1802998387&Signature=r-dsBRNUJ3xfCf42CPAmhK8LMr41xguCN~agU4TLY3TuQoE8ahCDAuSGbZjBU9tDxcYq-uQ1cqY~MqpwjLhip-C4~ZU0Vl0fCMdHRrRMKFmHMGZ0UnjZM6i3NctCg0w7VNzvuVy-8lSNS62T67uxPmCUTvFDdxM9y6dgPIWlGeTMINzq3szKOE2rundnc9YQv7dVEY1MQrw5oUSl7inhO5OrDx~1t3-XbSa5uiTIC1jntPSF7XTNtdZKmwgC2BUsg7Xh76~L60kcNjp9pUtFK4fzE1aETjtJCAxFPZA4Yx~zZlubGCdmyPSY3KcMMWiWpvsd9MbFEmGObt5-BWa8cA__&Key-Pair-Id=K2HSFNDJXOU9YS"
                 alt="ProDentim vs ProvaDent - Formula Comparison 2026"
