@@ -326,7 +326,7 @@ export default function HomeEN() {
                 <h3 className="text-lg font-bold text-slate-900">What Real Users Say</h3>
                 <div className="bg-slate-50 p-4 rounded-lg border border-slate-200">
                   <div className="flex items-start gap-3">
-                    <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=John" alt="John" className="w-10 h-10 rounded-full flex-shrink-0" />
+                    <img src="https://private-us-east-1.manuscdn.com/user_upload_by_module/feedback/310519663340322963/PBbIzwDanVlGOMcA.png?Expires=1802999748&Signature=N6vuQMZski3Xn-ccz1ypcWGhPZCkMYe5W6ZELQc~TcN7BImbMRe~vMsfFoN68tgK4r~Ury3kVXTBzI0Qt22tJm-352zHBzmKugTa3nV~dTC0Ifdqr56vvHlu9A5w6NoIBBvHjKzSnHr7XKTWd1KN3vrFQmGGylRZajF7uZ9je6KN5lPuB7Ciwa6CeCHLvCMI-kJukrzuHUi65XMOBQ7852AUv3CUWOPZDfHpFrwkiTm32mzsLMsOD20De0dYkXWDiHzshUMuhMhCU7ovY~b4lRujdkitoVdpxsYlH09ypYJteh13~NyCHDMrLLU7qqhWXWcFnvCh~mV936MoXs9RZA__&Key-Pair-Id=K2HSFNDJXOU9YS" alt="John" className="w-10 h-10 rounded-full flex-shrink-0" />
                     <div>
                       <p className="text-slate-700 italic mb-2">"Improved my bad breath in 3 weeks. My dentist was surprised by the improvement in my gums."</p>
                       <p className="font-semibold text-slate-900">John, 45 years old</p>
@@ -336,7 +336,7 @@ export default function HomeEN() {
                 </div>
                 <div className="bg-slate-50 p-4 rounded-lg border border-slate-200">
                   <div className="flex items-start gap-3">
-                    <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Maria" alt="Maria" className="w-10 h-10 rounded-full flex-shrink-0" />
+                    <img src="https://private-us-east-1.manuscdn.com/user_upload_by_module/feedback/310519663340322963/bZOYfRDCMIqxdPet.png?Expires=1802999743&Signature=NSWSKzKaVxlb0P4LwCpo~jX4J0wwhc4YcFTEU-lcua3mrf~BfIbNmZK-zeAupEL9z6bkG~Se66Urfxi54hV4iQNxqDGQfl458d~vZ3r3RDHKAE49JQFtCC6OOGF1Pk5g61~wxjX8MZW~O1d2eRBUY48Peg0Lh7H6bW7Q4RZfKpAiEkkgigcWPUBevF-0ZaDI1FZ2pWbJQvejybUIG~~fZycPxXdXaYHleItZt6EwFPKCCKHdNW4fvb3vfF6edJ8YmxCihJlvZfIEy59Z7fQlDAg58uLxgb8XQKUcY5cGjUTzdz9~PeCxsSAmZMu6Fxi2LmKjA3UHBaaH9z4lzV-HFw__&Key-Pair-Id=K2HSFNDJXOU9YS" alt="Maria" className="w-10 h-10 rounded-full flex-shrink-0" />
                     <div>
                       <p className="text-slate-700 italic mb-2">"Easy to chew, felt the difference right away. I recommend it to anyone looking for something practical and effective."</p>
                       <p className="font-semibold text-slate-900">Maria, 38 years old</p>
@@ -416,7 +416,7 @@ export default function HomeEN() {
                 <h3 className="text-lg font-bold text-slate-900">What Real Users Say</h3>
                 <div className="bg-white p-4 rounded-lg border border-slate-200">
                   <div className="flex items-start gap-3">
-                    <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Kelly" alt="Kelly T" className="w-10 h-10 rounded-full flex-shrink-0" />
+                    <img src="https://private-us-east-1.manuscdn.com/user_upload_by_module/feedback/310519663340322963/fdRFcvELyQBBwvsR.webp?Expires=1802999576&Signature=oAKinSWdkijlwguq9xEFi60x-fVi52Tjpm5gDSIZCNmbqurmPwFRTKh9rk8YXZo0~BLkuy26HB6LySGdchHPq268GMd64RqqGWRc0g1qx~1pdzDuUo5WGoDq7Lwz0ngDRLTCqWl30R7PMIdT1QuHIKJhv7z17iCvsV12gUL8~pZYSSfd8rFaGJ3aETaIB8BBi0IV-u6bV6TYtGilhOoQ3V6SYWdmnabb1~cbl45QImINSS1Mzvu9zF8ajFrgGKzShML6T2FpOt20Q64CoiAmhECYsl51vxrIkxtqY3iBwYWePSWcjDny0mcdmyMoGD~PVM9QSg8G5uN2Ccv38A6Akg__&Key-Pair-Id=K2HSFNDJXOU9YS" alt="Kelly T" className="w-10 h-10 rounded-full flex-shrink-0" />
                     <div>
                       <p className="text-slate-700 italic mb-2">"My dentist was surprised by the health of my gums. I highly recommend it!"</p>
                       <p className="font-semibold text-slate-900">Kelly T</p>
@@ -426,7 +426,7 @@ export default function HomeEN() {
                 </div>
                 <div className="bg-white p-4 rounded-lg border border-slate-200">
                   <div className="flex items-start gap-3">
-                    <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Ethan" alt="Ethan C" className="w-10 h-10 rounded-full flex-shrink-0" />
+                    <img src="https://private-us-east-1.manuscdn.com/user_upload_by_module/feedback/310519663340322963/hFWAnrroBOYtXmJt.webp?Expires=1802999588&Signature=o8ViFAXOwOAU096f9FueZho1Js7fYGCv8wc31ch8so72s-vbCPvLgUxa7bambwO3o~a8Vrh6X78xA2Fn0hdLnVQD64gx36FZX-f0KpuytqamKKbkYSu39ndlxKuhFQCMxt65NUEJSRvHqDT-~rGKU0RgtE44dUFLgCkTvjdMSELXNGW8O~zI7kgLOYNBPxJzNprgqm3Fj19ma4KZwiP0q3qArP0kRFFrGb8Gj8vN4o7xEGboFIHeWT9d929FPXxFJF2ZQwtX8Ydb2EQ3m4xX01tXAofruE9YoWLd4pb~p0JfIx8ATbVMISJgsu6abUhBRdaDQs-F9y-MStytv8NRFQ__&Key-Pair-Id=K2HSFNDJXOU9YS" alt="Ethan C" className="w-10 h-10 rounded-full flex-shrink-0" />
                     <div>
                       <p className="text-slate-700 italic mb-2">"No more morning bad breath. Easy to use and natural ingredients give me peace of mind."</p>
                       <p className="font-semibold text-slate-900">Ethan C</p>
