@@ -64,7 +64,7 @@ export default function HomeEN() {
 
             <div className="flex items-center justify-center order-1 lg:order-2">
               <img
-                src="https://files.manuscdn.com/canvas/images/2026/02/18/741cb688-324d-4184-9e5a-7ce0678672e4.jpg"
+                src="https://private-us-east-1.manuscdn.com/user_upload_by_module/feedback/310519663340322963/aWInxdmqDFLFzCGL.png?Expires=1802997284&Signature=IzxAGuPscfEf4seThz3XxVOWAvLXQDbitghPTl3f3U57-~NWgDrXAQVhUbbOO2tqWqnxHQncC5WxzxlkVrewHIez5sMZzuA57Tbv8Oi6rmZoXt-z8bRYO2bLPldVcQMLzz8ODX055uNKsGBEBJFhwnPfWqEawSzNqHEYU2hI81FsLhVZSSNUh4DuB1xHUOxwDuzYw3zMU5~BVtISxewMb7xatLNnC-Vo6Wp3rWd8paq3KdIyP8vnTCyYJiKn680hM9XQggeQTNwcvOrMQ32xWPxr7EpxsvFD2HGj49hsrPxe8WoljbHUeVCY6iZ5KvAwqgq03IS2ENZj2yRjfoGjLA__&Key-Pair-Id=K2HSFNDJXOU9YS"
                 alt="ProDentim vs ProvaDent - Formula Comparison 2026"
                 className="w-full max-w-sm h-auto rounded-lg shadow-lg"
               />
