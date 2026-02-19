@@ -416,7 +416,7 @@ export default function HomeEN() {
                 <h3 className="text-lg font-bold text-slate-900">What Real Users Say</h3>
                 <div className="bg-white p-4 rounded-lg border border-slate-200">
                   <div className="flex items-start gap-3">
-                    <Quote className="w-5 h-5 text-slate-600 flex-shrink-0 mt-1" />
+                    <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Kelly" alt="Kelly T" className="w-10 h-10 rounded-full flex-shrink-0" />
                     <div>
                       <p className="text-slate-700 italic mb-2">"My dentist was surprised by the health of my gums. I highly recommend it!"</p>
                       <p className="font-semibold text-slate-900">Kelly T</p>
@@ -426,7 +426,7 @@ export default function HomeEN() {
                 </div>
                 <div className="bg-white p-4 rounded-lg border border-slate-200">
                   <div className="flex items-start gap-3">
-                    <Quote className="w-5 h-5 text-slate-600 flex-shrink-0 mt-1" />
+                    <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Ethan" alt="Ethan C" className="w-10 h-10 rounded-full flex-shrink-0" />
                     <div>
                       <p className="text-slate-700 italic mb-2">"No more morning bad breath. Easy to use and natural ingredients give me peace of mind."</p>
                       <p className="font-semibold text-slate-900">Ethan C</p>
